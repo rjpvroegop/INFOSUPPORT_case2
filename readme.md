@@ -29,6 +29,20 @@
 Er is gekozen voor een ruim opgezette SOA-Architectuur. Dit is pas de eerste release van de
 applicatie. We verwachten dat het systeem in de toekomst veel uitgebreider gaat worden. 
 
+<table>
+  <tr>
+    <td>FEGarageManagementSysteem</td>
+    <td>ISRijksdienstWegverkeer</td>
+  </tr>
+  <tr>
+  <td colspan="2" style="text-align:center;">Service Bus</td>
+  </tr>
+  <tr>
+    <td>PcSOnderhoud</td>
+    <td>BSVoertuigEnKlantbeheer</td>
+  </tr>
+</table>
+
 De **FEGarageManagementSysteem** implementeert het User Interface voor zowel de receptioniste als
 de monteur. Op het hoofdscherm staat een menulijstje met taken (use cases).
 
